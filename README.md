@@ -1,2 +1,0 @@
-# server
-JD online exanple
